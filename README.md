@@ -21,8 +21,7 @@ Display the Rows.
 End the program
 ## PROGRAM:
 ```
-##Developed by: K     
-##REGISTER NUMBER: 212221240024
+##Refence Number:21003942
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
