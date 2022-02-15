@@ -32,7 +32,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-[github](csv.png)
+![github](csv.png)
 
 ## RESULT:
 Therefore the above program is successfully executed to read the content from a csv file using pandas.
