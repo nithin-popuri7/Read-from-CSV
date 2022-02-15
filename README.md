@@ -21,7 +21,7 @@ Display the Rows.
 End the program
 ## PROGRAM:
 ```
-##Refence Number:21003942
+##Ref.no:21003942
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
